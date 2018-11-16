@@ -2,7 +2,6 @@
 
 ## 목차
 1장 : GCP 시작하기 및 환경세팅
-
 -1. Google Cloud Platform 기반 Docker 시스템 환경 개요	2
 --가. GCP 시작하기	2
 ----1) 구글 계정 생성	2
